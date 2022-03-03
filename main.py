@@ -8,7 +8,7 @@ Flag=0
 # flag is used to know where the input number should go 
 
 #add bot api from environment variables
-api=os.environ.get('api_key')
+api=os.environ.get('5182482535:AAFzMpnH8kD8UEpeXkBp-D5qOgYLRvds910')
 
 # add api key without environment variables
 #api=YOUR_API_KEY
