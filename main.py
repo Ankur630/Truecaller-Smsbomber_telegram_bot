@@ -25,7 +25,7 @@ db=databaseConnect.Database()
 
 # /start calls this funtion
 def Start(update: Update, context):
-	update.message.reply_text(f'Welcome {update.effective_user.first_name}')
+	update.message.reply_text(f'Welcome ankur 😏 {update.effective_user.first_name}')
 		
 # /truecaller calls this funtion
 def Truecaller(update: Update,context) -> None:
